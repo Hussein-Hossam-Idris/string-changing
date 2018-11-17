@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542318424 source:d:\c++ programms\second year\assignment 3 individual\main.cpp
+	<iostream>
+	"recursive.h"
+	<string>
+	<cstring>
+
+1542316897 d:\c++ programms\second year\assignment 3 individual\recursive.h
+	<iostream>
+	<string>
+
+1542318996 source:d:\c++ programms\second year\assignment 3 individual\recursive.cpp
+	<iostream>
+	"recursive.h"
+	<string>
+	<string.h>
+
